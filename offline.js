@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1725597238,
+	"version": 1725869126,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,6 +15,7 @@
 		"images/buttonfull-sheet0.png",
 		"images/infoscore-sheet0.png",
 		"images/tiledbackground.png",
+		"images/behnmeyerbackgroundwords-sheet0.png",
 		"media/lose.ogg",
 		"media/best.ogg",
 		"media/score.ogg",
